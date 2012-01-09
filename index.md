@@ -35,7 +35,7 @@ For an introduction explaining how and why Remotipart works, check out [AJAX Fil
 ## Dependencies
 
 * [Rails &gt;= 3](https://rubygems.org/gems/rails)
-* [jquery-rails &gt;= 1.0](https://rubygems.org/gems/jquery-rails) (which bundles the rails jquery-ujs and jquery 1.6)
+* [jquery-rails &gt;= 1.0](https://rubygems.org/gems/jquery-rails) (which bundles the rails jquery-ujs and the latest jquery)
 
 <span id="installation"></span>
 
